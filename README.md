@@ -1,1 +1,1 @@
-WGAN-GP application on MNIST dataset using [Gulrajani et al. 2017.](https://arxiv.org/pdf/1704.00028.pdf)
+WGAN-GP pytorch application on MNIST dataset, following [Gulrajani et al. 2017.](https://arxiv.org/pdf/1704.00028.pdf)
